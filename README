@@ -1,0 +1,4 @@
+Este es mi primer repositorio, contiene un programa en python que lee una imagen y la rescala. Básico!
+Para correr un programa en python desde la terminal de Ubuntu:
+1. Cambiar las direcciones de la imagen a leer y la imagen a guarda en el programa rescalarImagen.py
+2. En la carpeta que contiene el archivo .py ejecutar -> python3 rescalarImagen.py
